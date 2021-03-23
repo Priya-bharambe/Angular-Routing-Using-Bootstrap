@@ -1,27 +1,7 @@
-# Greeno
+# Outputs:
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.3.
+![greeno1](https://user-images.githubusercontent.com/77727169/112107446-f5513680-8bd4-11eb-9ffb-7e38337e6134.JPG)
+![greenoplants](https://user-images.githubusercontent.com/77727169/112107520-0e59e780-8bd5-11eb-91bd-7bc0e8404ca1.JPG)
+![greenogallery](https://user-images.githubusercontent.com/77727169/112107539-1580f580-8bd5-11eb-8296-74fba1fed270.JPG)
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
